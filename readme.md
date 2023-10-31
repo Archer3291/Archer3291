@@ -21,3 +21,20 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archer3291&show_icons=true&locale=en&layout=compact" alt="archer3291" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archer3291&show_icons=true&locale=en" alt="archer3291" /></p>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<p align="center">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+
+<td width="50%" align="left">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Gonza0624&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
