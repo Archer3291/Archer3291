@@ -1,7 +1,7 @@
-<h1 align="center" style="color: blue;">Hi 👋, I'm Lazaro Resendiz</h1>
-<h3 align="center" style="color: green;">A passionate web developer</h3>
+# Hi 👋, I'm Lazaro Resendiz
+## A passionate web developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=archer3291&label=Profile%20views&color=0e75b6&style=flat" alt="archer3291" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=archer3291&label=Profile%20views&color=0e75b6&style=flat)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archer3291" alt="archer3291" /></a> </p>
