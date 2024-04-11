@@ -1,3 +1,4 @@
+<div style="background-color:#003140">
 <h1 align="center"> Hi 👋, I'm Lazaro Resendiz </h1>
 
 
@@ -49,3 +50,4 @@ I'm a software engineering student who is passionate about writing code, solving
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=archer3291&layout=compact&langs_count=8&theme=tokyonight)<br />
  ![](https://github-readme-stats.vercel.app/api?username=archer3291&show_icons=true&locale=en&theme=tokyonight&hide=stars)<br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=archer3291&theme=tokyonight&hide_border=false)
+</div>
