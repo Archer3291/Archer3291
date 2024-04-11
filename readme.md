@@ -18,7 +18,7 @@ I'm a software engineering student who is passionate about writing code, solving
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archer3291&theme=nord" alt="archer3291" /></a></p>
 
 ## 📫 How to reach me
-<a href="mailto:lazaro.resendiz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:lazaro.resendizd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/lazaro resendiz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
