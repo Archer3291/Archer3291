@@ -44,7 +44,7 @@ I'm a software engineering student who is passionate about writing code, solving
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=archer3291&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Archer3291&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
  # GitHub Stats: <br />
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=archer3291&layout=compact&langs_count=8&theme=tokyonight)<br />
