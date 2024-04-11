@@ -16,6 +16,10 @@ I'm a software engineering student who is passionate about writing code, solving
 - 🌐 I enjoy creating interactive web experiences.
 - 🚀 I'm excited to learn new technologies and frameworks.
 
+<br>
+<br>
+<br>
+<br>
 
 ## 📫 How to reach me
 <a href="mailto:lazaro.resendizd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
