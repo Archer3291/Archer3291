@@ -16,13 +16,12 @@ I'm a software engineering student who is passionate about writing code, solving
 - 🌐 I enjoy creating interactive web experiences.
 - 🚀 I'm excited to learn new technologies and frameworks.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archer3291&theme=nord" alt="archer3291" /></a></p>
 
 ## 📫 How to reach me
 <a href="mailto:lazaro.resendizd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/lazaro resendiz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <p>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3">
@@ -42,6 +41,7 @@ I'm a software engineering student who is passionate about writing code, solving
     <img src="https://img.shields.io/badge/-Figma-0ACF83?style=flat&logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=white">
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archer3291&theme=nord" alt="archer3291" /></a></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Archer3291&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
