@@ -24,7 +24,7 @@ I'm a software engineering student who is passionate about writing code, solving
 
 ## 📫 How to reach me
 <a href="mailto:lazaro.resendizd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/lazaro resendiz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/lazaro-resendiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 ## Languages and Tools:
 <p>
