@@ -27,7 +27,7 @@ I'm a software engineering student who is passionate about writing code, solving
 
 ## 🛠 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,laravel,php,phpstorm,python,c,net,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,laravel,php,phpstorm,python,cs,net,mysql&theme=light)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,github&theme=light)](https://skillicons.dev)
 
