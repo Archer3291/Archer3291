@@ -1,17 +1,27 @@
 <h1 align="center"> Hi 👋, I'm Lazaro Resendiz </h1>
 
-I'm a software engineer passionate about writing code, solving problems, and building software.
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Software+developer+%F0%9F%94%A5;Anime+lover+and+code+addict+%F0%9F%91%97;PHP%2C+Laravel+%26+Monas+Chinas+%E2%9C%A8;Always+learning+something+new!+%F0%9F%93%9A" alt="Typing SVG" />
+  </a>
+</p>
 
 <img align="right" alt="Coding illustration" src="https://pbs.twimg.com/media/FNVyspAXwAEHS6X.jpg" width="400" height="250" />
+
+<br>
+<br>
 
 - 💻 I **love** coding  
 - 📗 I’m currently focusing on backend development  
 - 🌐 I enjoy creating dynamic and interactive web experiences  
 - 🚀 I'm excited to learn new technologies and frameworks  
 
+<br>
+<br>
+
 ## 📫 How to reach me  
-[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:lazaro.resendizd@gmail.com)  
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/lazaro-resendiz/)
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:lazaro.resendizd@gmail.com)  [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/lazaro-resendiz/)
 
 ## 🛠 Languages and Tools:
 
